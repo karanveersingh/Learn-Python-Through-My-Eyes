@@ -21,16 +21,16 @@ You can convert between numeric types using:
 
 **Example**  
 
-# Integer  
+- Integer  
 num1 = 10  
 
-# Float  
+- Float  
 num2 = 10.5  
 
-# Complex  
+- Complex  
 num3 = 2 + 3j  
 
-# Type Conversion  
+- Type Conversion  
 num4 = float(num1)  # Converts integer to float  
 
 **Conclusion**  
