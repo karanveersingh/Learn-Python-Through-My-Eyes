@@ -1,15 +1,15 @@
 ## Numeric Data Types in Python  
 Python has several built-in numeric data types:  
 
-1. Integers
+1. **Integers**
 Whole numbers, positive or negative, without decimals.  
 Example: x = 5, y = -3  
 
-2. Floats  
+2. **Floats**
 Numbers that contain a decimal point.  
 Example: a = 3.14, b = -0.001 
 
-3. Complex Numbers  
+3. **Complex Numbers**  
 Numbers that have a real and an imaginary part.  
 Example: c = 2 + 3j, where j is the imaginary unit.  
 
