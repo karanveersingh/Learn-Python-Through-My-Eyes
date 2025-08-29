@@ -1,4 +1,5 @@
-## In Python, the string data type, represented as str, is used to handle textual data. Strings are sequences of Unicode characters and are fundamental for storing and manipulating text.
+## In Python, the string data type
+represented as str, is used to handle textual data. Strings are sequences of Unicode characters and are fundamental for storing and manipulating text.
 
 **Key Characteristics of Python Strings:**  
 
