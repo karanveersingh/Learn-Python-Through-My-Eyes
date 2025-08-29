@@ -1,5 +1,5 @@
 # Data Types in Python  
-    Python includes several built-in data types to store various kinds of data. These types determine the operations that can be performed on the data and how it is stored in memory.  
+Python includes several built-in data types to store various kinds of data. These types determine the operations that can be performed on the data and how it is stored in memory.  
 
 **Common Python Data Types:**  
 
