@@ -23,3 +23,18 @@ A variable name acts as a reference or pointer to a specific memory location whe
 - They can contain letters, numbers, and underscores.  
 - They are case-sensitive (e.g., Age and age are considered different variables).  
 - Reserved keywords (like if, for, while) cannot be used as variable names.  
+
+**Examples**  
+- Assigning an integer value to a variable  
+number = 10  
+
+- Assigning a string value to a variable  
+name = "Alice"  
+
+- Assigning a boolean value to a variable  
+is_active = True 
+
+- Printing the values of the variables  
+print(number)  
+print(name)  
+print(is_active)  
