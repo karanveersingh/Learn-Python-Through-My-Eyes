@@ -1,7 +1,7 @@
 # Varaiables in Python
 In Python, variables are used as named containers for storing data values. They allow for the storage and manipulation of information within a program.  
 
-**Pictorial Representation** ![img](F:\PYTHON-Throughmyeyes\Learn-Python-Through-My-Eyes\Img\variable.png)
+**Pictorial Representation** ![img](files://F:/PYTHON-Throughmyeyes/Learn-Python-Through-My-Eyes/Img/variable.png)
 
 **Key characteristics of Python variables:**  
 
