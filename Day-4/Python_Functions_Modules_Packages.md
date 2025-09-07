@@ -21,14 +21,14 @@ Modules are imported using the import statement, allowing access to their conten
 
 Practical - 
 - my_module.py
-def add(a, b):
+    def add(a, b):
     return a + b
 
 class MyClass:
     def __init__(self, value):
-        self.value = value
+    self.value = value
 
-- main_script.py
+- main_script.py  
 import my_module  
 
 result = my_module.add(5, 3)
@@ -57,18 +57,18 @@ Packages allow for a hierarchical structuring of the module namespace using dot 
 
 **Example:** A my_project package might contain subdirectories like database, views, and utilities, each containing relevant modules.  
 
-**Practical**
-    my_project/
-    ├── __init__.py
-    ├── database/
-    │   ├── __init__.py
-    │   └── models.py
-    ├── views/
-    │   ├── __init__.py
-    │   └── web_views.py
-    └── utilities/
-        ├── __init__.py
-        └── helpers.py
+**Practical**  
+    my_project/  
+    ├── __init__.py  
+    ├── database/  
+    │   ├── __init__.py  
+    │   └── models.py  
+    ├── views/  
+    │   ├── __init__.py  
+    │   └── web_views.py  
+    └── utilities/  
+        ├── __init__.py  
+        └── helpers.py  
 
  **Import Python Module**
 - This imports the entire module, and you access its contents using dot notation.

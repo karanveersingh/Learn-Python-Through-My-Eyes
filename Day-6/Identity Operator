@@ -1,0 +1,15 @@
+# Identity Operator Example in Python
+
+a = [1, 2, 3]
+b = a
+c = [1, 2, 3]
+
+# 'is' checks if both variables point to the same object
+print(a is b)   # True, because b is assigned to a
+print(a is c)   # False, because c is a different object with the same content
+
+# 'is not' checks if both variables do not point to the same object
+print(a is not c)  # True
+
+# For comparison of values, use '=='
+print(a == c)   # True, because their contents are equal
